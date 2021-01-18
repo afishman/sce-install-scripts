@@ -5,4 +5,4 @@ rm -f FastUniq-1.1.tar.gz
 cd FastUniq/source
 make
 
-ln -s $PWD/fastuniq /usr/local/bin/fastuniq
+sudo ln -s $PWD/fastuniq /usr/local/bin/fastuniq
